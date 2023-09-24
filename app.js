@@ -20,7 +20,9 @@ console.log(sum, name);
 const person = {
     name: "Manan",
     age : 21,
+    profession: "student",
 }
 
 console.log("name: " + person.name);
 console.log("age:" + person.age);
+console.log("Profession :" + profession);
